@@ -1,7 +1,7 @@
 ---
 title: "DeepSeek про меня"
 date: 2025-04-28T13:04:56+03:00
-draft: true
+# draft: true
 tags: ["about", "DeepSeek"]
 ---
 
