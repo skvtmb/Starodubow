@@ -3,10 +3,8 @@ languageCode = "en-us"
 title = "Starodubov blog"
 theme = "cactus"
 copyright = "Starodubov KV"        # cactus will use title if copyright is not set
-disqusShortname = "example"        # Used when comments is enabled. Cactus will use site title if not set
+disqusShortname = "skv"            # Used when comments is enabled. Cactus will use site title if not set
 # googleAnalytics = "UA-1234-5"
-
-
 # summaryLength = 2
 
 # Main menu which appears below site header.
