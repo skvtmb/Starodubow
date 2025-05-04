@@ -17,11 +17,11 @@ cd public
 git init
 
 git config --global push.default matching
-git config --global user.email "${GitHubEMail}"
-git config --global user.name "${GitHubUser}"
+git config --global user.email "xaku68@gmail.com"
+git config --global user.name "skv"
 
 git add --all .
 git commit -m "Publishing to master (deploy.sh)"
 
 echo "Pushing to github"
-git push --quiet --force https://${GitHubKEY}@github.com/${GitHubUser}/${GitHubRepo}.git master
+git push --quiet --force https://github.com/skvtmb/Starodubow.git master

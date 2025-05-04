@@ -2,26 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Starodubov blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://starodubow.pro/posts/</link>
     <description>Recent content in Posts on Starodubov blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Starodubov KV</copyright>
-    <lastBuildDate>Mon, 28 Apr 2025 13:04:56 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>DeepSeek про меня</title>
-      <link>http://localhost:1313/posts/deepseecme/</link>
-      <pubDate>Mon, 28 Apr 2025 13:04:56 +0300</pubDate>
-      <guid>http://localhost:1313/posts/deepseecme/</guid>
-      <description>&lt;p&gt;Вот что про меня выдал DeepSeek:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Константин Владимирович Стародубов&lt;/strong&gt; — российский специалист в области информационной безопасности, сотрудник Банка России. Его профессиональная деятельность связана с разработкой методологии, стандартизацией и обеспечением киберустойчивости в финансовом секторе. Вот ключевые аспекты его работы:&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Должность и роль в Банке России&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Главный инженер отдела информационной безопасности и киберустойчивости финансовых технологий в Управлении методологии и стандартизации Департамента информационной безопасности Банка России.&#xA;Участвует в разработке нормативных документов, включая обновления стандартов серии ГОСТ Р 57580, регулирующих защиту информации в финансовых организациях.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Первый пост, он самый тестовый</title>
-      <link>http://localhost:1313/posts/first/</link>
-      <pubDate>Mon, 28 Apr 2025 12:04:56 +0300</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
-      <description>&lt;p&gt;Первый пост, запушен как эксперемент.&#xA;На страницах этого блога планирую делиться своими мыслями с полей, информаций, которая будет у меня скапливаться.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://starodubow.pro/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
