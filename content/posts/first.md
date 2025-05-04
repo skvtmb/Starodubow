@@ -1,7 +1,7 @@
 ---
 title: "Первый пост, он самый тестовый"
 date: 2025-04-28T12:04:56+03:00
-draft: true
+# draft: true
 tags: ["post", "history"]
 ---
 
