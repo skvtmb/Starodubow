@@ -1,9 +1,9 @@
-baseURL = "http://starodubov.pro"
+baseURL = "https://starodubov.pro"
 languageCode = "en-us"
 title = "Starodubov blog"
 theme = "cactus"
-copyright = "Starodubov KV"       # cactus will use title if copyright is not set
-disqusShortname = "skv"           # Used when comments is enabled. Cactus will use site title if not set
+copyright = "Starodubov KV"        # cactus will use title if copyright is not set
+disqusShortname = "skv"            # Used when comments is enabled. Cactus will use site title if not set
 # googleAnalytics = "UA-1234-5"
 # summaryLength = 2
 
@@ -58,7 +58,7 @@ showAllPostsOnHomePage = false                                         # default
 postsOnHomePage = 5                                                    # this option will be ignored if showAllPostsOnHomePage is set to true
 tagsOverview = true                                                    # show tags overview by default.
 showProjectsList = true                                                # show projects list by default (if projects data file exists).
-projectsUrl = "https://github.com/gohugoio"                            # title link for projects list
+projectsUrl = "https://starodubov.pro"                                 # title link for projects list
 
 # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
 dateFormat = "2006-01-02" # default
@@ -75,7 +75,7 @@ repo = "<github_username>/<github_reponame>"
 label = "hugo-site-name"                     # you can use however you want to label your name in your repo's issues
 theme = "github-light"
 [params.comments.cactuscomments]
-siteName = "your_cactus_comments_sitename" # see https://cactus.chat/ on how to register your site name
+siteName = "starodubov" # see https://cactus.chat/ on how to register your site name
 #serverUrl = "" # Defaults to https://matrix.cactus.chat:8448 (Cactus Chat public server)
 #serverName = "" # Defaults to cactus.chat
 
@@ -84,9 +84,9 @@ siteName = "your_cactus_comments_sitename" # see https://cactus.chat/ on how to 
 [[params.social]]
 name = "Telegram"
 link = "https://t.me/SKWTMB"
-[[params.social]]
-name = "linkedin"
-link = "https://www.linkedin.com/company/github/"
+# [[params.social]]
+# name = "linkedin"
+# link = "https://www.linkedin.com/company/github/"
 [[params.social]]
 name = "email"
 link = "xaku68@gmail.com" # no need for "mailto:" in the head
