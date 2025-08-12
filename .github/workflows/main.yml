@@ -67,7 +67,7 @@ jobs:
     container:
       image: ubuntu:20.04 # Используем контейнер с Ubuntu 20.04
     name: Deploy to Yandex Object Storage via AWS CLI # Название задачи
-    needs: build # Задача зависит от завершения задачи `build`
+    # needs: build  # Задача зависит от завершения задачи `build`
     steps:
       # Скачиваем артефакт (собранный сайт) из предыдущей задачи
       - name: Download build artifact
