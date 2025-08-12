@@ -108,4 +108,4 @@ jobs:
         run: |
           echo $BUCKET_NAME
           aws s3 sync ./public/ s3://$BUCKET_NAME/ --delete --endpoint-url https://storage.yandexcloud.net
-          # Синхронизируем папку `public` с бакетом, удаляя файлы, которых нет в источнике
+          # Синхронизируем папку `public`  v с бакетом, удаляя файлы, которых нет в источнике
